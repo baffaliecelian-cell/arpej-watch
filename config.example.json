@@ -1,0 +1,7 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 465,
+  "smtp_user": "ton.adresse@gmail.com",
+  "smtp_password": "COLLE-ICI-TON-MOT-DE-PASSE-D-APPLICATION-GMAIL",
+  "destinataire": "ton.adresse@gmail.com"
+}

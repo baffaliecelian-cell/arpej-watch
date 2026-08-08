@@ -1,0 +1,7 @@
+# Contient le mot de passe d'application Gmail : ne doit JAMAIS être poussé.
+config.json
+watch.log
+__pycache__/
+
+# state.json est volontairement suivi : c'est la mémoire du bot entre deux
+# exécutions GitHub Actions.
